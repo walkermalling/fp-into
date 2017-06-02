@@ -55,3 +55,13 @@ code {
     padding: .3em;
 }
 
+blockquote {
+ margin: 0;
+    }
+
+blockquote p {
+    font-family: Times-new-roman;
+    background: #eee;
+    font-weight: bold;
+    padding: 1em 0 1em 1em;
+}
